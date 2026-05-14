@@ -7,16 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=QA+Automation+Test+Engineer;Selenium+%7C+Playwright+Automation;API+Testing+%7C+CI%2FCD" />
 
 ---
-
-## 🌟 About Me
-
-- Currently working on **Automation Testing Frameworks**
-- Learning **Advanced Playwright, CI/CD, AI in Testing**
-- Passionate about **Framework Architecture & Test Automation**
-- Skilled in **Web Automation Testing, API Testing,**
-
----
-
 ## Connect With Me
 
 <p align="left">
