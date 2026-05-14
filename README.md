@@ -1,16 +1,127 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kishor%20Arasiddi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<!--
-**Kishor-Arasiddi/Kishor-Arasiddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kishor Arasiddi
 
-Here are some ideas to get you started:
+## Automation QA Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=QA+Automation+Test+Engineer;Selenium+%7C+Playwright+Automation;API+Testing+%7C+CI%2FCD" />
+
+---
+
+## 🌟 About Me
+
+- Currently working on **Automation Testing Frameworks**
+- Learning **Advanced Playwright, CI/CD, AI in Testing**
+- Passionate about **Framework Architecture & Test Automation**
+- Skilled in **Web Automation Testing, API Testing,**
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kishor-arasiddi/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Kishor-Arasiddi" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+---
+
+# Tech Stack
+
+## Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql" />
+</p>
+
+---
+
+## Automation Testing Tools
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" height="50" alt="Selenium"/>
+
+<img src="https://playwright.dev/img/playwright-logo.svg" width="50" height="50" alt="Playwright"/>
+
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" width="50" height="50" alt="JMeter"/>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/testng.svg" width="50" height="50" alt="TestNG"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="50" height="50" alt="Pytest"/>
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
+
+<img src="https://avatars.githubusercontent.com/u/48912295?s=200&v=4" width="50" height="50" alt="Rest Assured"/>
+
+<img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="50" height="50" alt="Cucumber"/>
+
+</p>
+
+---
+
+## CI/CD & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,git,github" />
+</p>
+
+---
+
+## Database & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+---
+
+## Framework Architecture Skills
+
+-  Page Object Model (POM)    
+-  Reusable Utilities  
+-  Cross Browser Testing  
+-  Parallel Execution  
+-  Reporting & Logging  
+-  Screenshot & Video Capture  
+-  Allure Reports  
+-  Trace Viewer  
+-  API Automation Frameworks  
+
+---
+
+# Featured Projects
+
+## 🔹 Playwright Automation Framework
+✔ Parallel Execution  
+✔ Allure Reporting  
+✔ Trace Viewer  
+✔ Screenshot & Video Recording  
+✔ CI/CD Integration  
+
+---
+
+## 🔹 Selenium Java Framework
+✔ TestNG Integration  
+✔ Maven Build Management  
+✔ Page Object Model  
+✔ Data Driven Testing  
+✔ Cross Browser Execution  
+
+---
+
+## 🔹 API Automation Framework
+✔ Rest Assured  
+✔ JSON Schema Validation  
+✔ Authentication Testing  
+✔ CRUD API Validation  
+✔ Reporting & Assertions  
+
+---
+
+# ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
