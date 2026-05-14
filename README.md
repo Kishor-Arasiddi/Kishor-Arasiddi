@@ -7,6 +7,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=QA+Automation+Test+Engineer;Selenium+%7C+Playwright+Automation;API+Testing+%7C+CI%2FCD" />
 
 ---
+
+## About Me
+
+- Focused on UI Automation, API Testing, and Framework Development
+- Experience with Selenium, Playwright, Rest Assured, TestNG, and Pytest
+- Interested in CI/CD, automation architecture, and AI in testing
+- Strong understanding of Page Object Model and reusable framework design
+- Currently improving skills in Playwright, GitHub Actions, and Jenkins
+
+---
+
 ## Connect With Me
 
 <p align="left">
